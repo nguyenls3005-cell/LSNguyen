@@ -1,6 +1,6 @@
 
 <div align="center">
-## LSNguyen
+##LSNguyen
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
