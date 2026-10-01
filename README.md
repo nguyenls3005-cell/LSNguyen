@@ -26,5 +26,5 @@
 ---
 
 ## 🔗 Links
-- Facebook: https://facebook.com/duongduong0908  
+- Facebook: [https://www.facebook.com/share/1FV2xgn8J3/?mibextid=wwXIfr]
 - X: https://x.com/duongduong0908
