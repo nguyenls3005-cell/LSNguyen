@@ -20,9 +20,9 @@
 ---
 
 ##  Tech
-*Json**
-*Swift**
-*Beta Tester**
+**Json**,
+**Swift**,
+**Beta Tester**
 
 
 ---
