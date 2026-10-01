@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o+%F0%9F%91%8B+T%C3%B4i+l%C3%A0+LSNguyen;Full-stack+Developer;Y%C3%AAu+th%C3%ADch+m%C3%A3+ngu%E1%BB%93n+m%E1%BB%9F;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+%C4%91i%E1%BB%81u+m%E1%BB%9Bi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&weight=300&pause=1000&width=435&lines=Building+EnsWilde+%7C+Repo+3105+%EF%A3%BF;Ho+Chi+Minh+City%2C+VN%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
@@ -26,7 +26,8 @@
 const developer = {
     name: "LSNguyen",
     role: "Full-stack Developer",
-    location: "Vietnam 🇻🇳",
+    location: "Ho Chi Minh City, VN 🇻🇳",
+    currentProject: "EnsWilde | Repo 3105 ꣿ",
     languages: ["JavaScript", "TypeScript", "Python", "Go"],
     frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
     backend: ["Node.js", "NestJS", "FastAPI", "PostgreSQL"],
