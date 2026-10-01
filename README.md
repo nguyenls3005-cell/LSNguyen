@@ -8,19 +8,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&weight=300&pause=1000&width=435&lines=Building+EnsWilde+%7C+Repo+3105+%EF%A3%BF;Ho+Chi+Minh+City%2C+VN%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
-<!-- Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=LSNguyen&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/LSNguyen?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack-blue" />
-  <img src="https://img.shields.io/badge/Lives-Vietnam-success" />
-</p>
-
 </div>
 
 ---
 
-## 👨‍💻 Về tôi
+## 🚀 About
+
+<div align="center">
+
+<!-- Logo EnsWilde - thay link ảnh logo của bạn vào đây -->
+<img src="https://your-logo-url.com/enswilde-logo.png" alt="EnsWilde" width="150"/>
+
+### **EnsWilde**
+
+</div>
 
 ```javascript
 const developer = {
