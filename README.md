@@ -12,25 +12,19 @@
 ---
 
 ## About
+- 👋 I’m **LSNguyen**
+- ❤️ **Coding Enswilde | Repo 3105**
+- 🇻🇳 Ho Chi Minh City, VN
+- 🦊 3105 Lover
 
-<div align="center">
+---
 
-<img src="https://your-logo-url.com/enswilde-logo.png" alt="EnsWilde" width="150"/>
+##  Tech
+![iOS](https://img.shields.io/badge/iOS-ffd500?style=flat&logo=apple&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00b0ff?style=flat&logo=github&logoColor=white)
 
-### **EnsWilde**
+---
 
-</div>
-
-```javascript
-const developer = {
-    name: "LSNguyen",
-    role: "Full-stack Developer",
-    location: "Ho Chi Minh City, VN 🇻🇳",
-    currentProject: "EnsWilde | Repo 3105 ꣿ",
-    languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
-    backend: ["Node.js", "NestJS", "FastAPI", "PostgreSQL"],
-    devops: ["Docker", "K8s", "AWS", "CI/CD"],
-    hobbies: ["Coding", "Coffee ☕", "Open Source"],
-    motto: "Code sạch - Đời an nhiên ✨"
-};
+## 🔗 Links
+- Facebook: https://facebook.com/duongduong0908  
+- X: https://x.com/duongduong0908
