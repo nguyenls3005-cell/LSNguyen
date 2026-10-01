@@ -12,27 +12,4 @@
 
 ---
 
-## 🚀 About
-
-<div align="center">
-
-<!-- Logo EnsWilde - thay link ảnh logo của bạn vào đây -->
-<img src="https://your-logo-url.com/enswilde-logo.png" alt="EnsWilde" width="150"/>
-
-### **EnsWilde**
-
-</div>
-
-```javascript
-const developer = {
-    name: "LSNguyen",
-    role: "Full-stack Developer",
-    location: "Ho Chi Minh City, VN 🇻🇳",
-    currentProject: "EnsWilde | Repo 3105 ꣿ",
-    languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
-    backend: ["Node.js", "NestJS", "FastAPI", "PostgreSQL"],
-    devops: ["Docker", "K8s", "AWS", "CI/CD"],
-    hobbies: ["Coding", "Coffee ☕", "Open Source"],
-    motto: "Code sạch - Đời an nhiên ✨"
-};
+## About
