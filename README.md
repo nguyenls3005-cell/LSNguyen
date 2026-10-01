@@ -30,3 +30,4 @@
 ## 🔗 Links
 - Facebook: https://www.facebook.com/share/1FV2xgn8J3/?mibextid=wwXIfr
 - X: https://x.com/nguyenls3005?s=11
+Thanks **YangJiii** For the template readme!
