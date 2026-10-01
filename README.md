@@ -20,11 +20,13 @@
 ---
 
 ##  Tech
-![iOS](https://img.shields.io/badge/iOS-ffd500?style=flat&logo=apple&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00b0ff?style=flat&logo=github&logoColor=white)
+*Json**
+*Swift**
+*Beta Tester**
+
 
 ---
 
 ## 🔗 Links
-- Facebook: [https://www.facebook.com/share/1FV2xgn8J3/?mibextid=wwXIfr]
-- X: https://x.com/duongduong0908
+- Facebook: https://www.facebook.com/share/1FV2xgn8J3/?mibextid=wwXIfr
+- X: https://x.com/nguyenls3005?s=11
