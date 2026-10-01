@@ -1,8 +1,6 @@
-<!-- ===== HEADER ===== -->
-<div align="center">
 
-<!-- Banner (thay link ảnh của bạn) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<div align="center">
+## LSNguyen
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
